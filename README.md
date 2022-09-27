@@ -17,8 +17,8 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
 |-------------|------|------|
-| Actually True | 70 | 31 |
-| Actually False | 6711 | 10393 |
+| Actually True | 63 | 24 |
+| Actually False | 7898 | 9220 |
 
 ### Classification Report Imbalanced 2
 ![Classification Report Imbalanced 2](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%202.PNG)
@@ -32,8 +32,8 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
 |-------------|------|------|
-| Actually True | 64 | 37 |
-| Actually False | 5291 | 11813 |
+| Actually True | 51 | 36 |
+| Actually False | 9685 | 7433 |
 
 ### Classification Report Imbalanced 3
 ![Classification Report Imbalanced 3](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%203.PNG)
@@ -47,8 +47,8 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
 |-------------|------|------|
-| Actually True | 70 | 31 |
-| Actually False | 10340 | 6764 |
+| Actually True | 55 | 32 |
+| Actually False | 5812 | 11306 |
 
 ### Classification Report Imbalanced 4
 ![Classification Report Imbalanced 4](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%204.PNG)
@@ -62,8 +62,8 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
 |-------------|------|------|
-| Actually True | 72 | 29 |
-| Actually False | 7195 | 9909 |
+| Actually True | 57 | 30 |
+| Actually False | 5734 | 11384 |
 
 ### Classification Report Imbalanced 5
 ![Classification Report Imbalanced 5](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%205.PNG)
@@ -77,8 +77,8 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
 |-------------|------|------|
-| Actually True | 71 | 30 |
-| Actually False | 2153 | 14951 |
+| Actually True | 58 | 29 |
+| Actually False | 1560 | 15558 |
 
 ### Classification Report Imbalanced 6
 ![Classification Report Imbalanced 6](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%206.PNG)
@@ -92,8 +92,8 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 **Confusion Matrix**
 |             | Predicted True  | Predicted False | 
 |-------------|------|------|
-| Actually True | 93 | 8 |
-| Actually False | 983 | 16121 |
+| Actually True | 78 | 9 |
+| Actually False | 975 | 16143 |
 
 
 
