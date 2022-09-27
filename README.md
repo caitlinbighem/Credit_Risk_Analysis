@@ -5,6 +5,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 
 ## Results
 
+### Classification Report Imbalanced 1
 ![Classification Report Imbalanced 1](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%201.PNG)
 
 * Balanced Accuracy Score: 62%
@@ -19,7 +20,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 70 | 31 |
 | Actually False | 6711 | 10393 |
 
-
+### Classification Report Imbalanced 2
 ![Classification Report Imbalanced 2](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%202.PNG)
 
 * Balanced Accuracy Score: 50%
@@ -34,7 +35,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 64 | 37 |
 | Actually False | 5291 | 11813 |
 
-
+### Classification Report Imbalanced 3
 ![Classification Report Imbalanced 3](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%203.PNG)
 
 * Balanced Accuracy Score: 65%
@@ -49,7 +50,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 70 | 31 |
 | Actually False | 10340 | 6764 |
 
-
+### Classification Report Imbalanced 4
 ![Classification Report Imbalanced 4](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%204.PNG)
 
 * Balanced Accuracy Score: 66%
@@ -64,7 +65,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 72 | 29 |
 | Actually False | 7195 | 9909 |
 
-
+### Classification Report Imbalanced 5
 ![Classification Report Imbalanced 5](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%205.PNG)
 
 * Balanced Accuracy Score: 78%
@@ -79,7 +80,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually True | 71 | 30 |
 | Actually False | 2153 | 14951 |
 
-
+### Classification Report Imbalanced 6
 ![Classification Report Imbalanced 6](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%206.PNG)
 
 * Balanced Accuracy Score: 84%
