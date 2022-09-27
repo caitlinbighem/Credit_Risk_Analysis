@@ -5,7 +5,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 
 ## Results
 
-(SCREENSHOT 1 LINK)
+![Classification Report Imbalanced 1](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%201.PNG)
 
 * Balanced Accuracy Score: 62%
 * Precision High Risk: 1%
@@ -20,10 +20,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually False | 6711 | 10393 |
 
 
-
-### SMOTE Oversampling
-
-(SCREENSHOT 2 LINK)
+![Classification Report Imbalanced 2](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%202.PNG)
 
 * Balanced Accuracy Score: 50%
 * Precision High Risk: 1%
@@ -38,10 +35,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually False | 5291 | 11813 |
 
 
-
-### Cluster Centroids Undersampling 
-
-(SCREENSHOT 3 LINK)
+![Classification Report Imbalanced 3](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%203.PNG)
 
 * Balanced Accuracy Score: 65%
 * Precision High Risk: 1%
@@ -56,10 +50,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually False | 10340 | 6764 |
 
 
-
-### SMOTEENN Combination (Over and Under) Sampling
-
-(SCREENSHOT 4 LINK)
+![Classification Report Imbalanced 4](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%204.PNG)
 
 * Balanced Accuracy Score: 66%
 * Precision High Risk: 1%
@@ -74,10 +65,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually False | 7195 | 9909 |
 
 
-
-### Balanced Random Forest Classifier
-
-(SCREENSHOT 5 LINK)
+![Classification Report Imbalanced 5](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%205.PNG)
 
 * Balanced Accuracy Score: 78%
 * Precision High Risk: 4%
@@ -92,10 +80,7 @@ Machine learning can be utilized to predict credit risk. By utilizing it, it wil
 | Actually False | 2153 | 14951 |
 
 
-
-### Easy Ensemble ADABoost Classifier  
-
-(SCREENSHOT 6 LINK)
+![Classification Report Imbalanced 6](https://github.com/caitlinbighem/Credit_Risk_Analysis/blob/main/Resources/Screenshot%206.PNG)
 
 * Balanced Accuracy Score: 84%
 * Precision High Risk: 7%
@@ -126,4 +111,4 @@ Multiple machine learning models were employed while determining which would be 
 * Sensitivity = True Positives (TP) / (True Positives (TP) + False Negatives (FN)) 
 
 
-The analysis shown above suggests that the precision scores for each model are overfit. While a good balance of recall and precision is needed to have an effective model, most of the above models do not have this balance. However, the model indicated in “Screenshot 6” is recommended for future use, namely due to its high balanced accuracy score, as well as its balance of recall and precision scores. 
+The analysis shown above suggests that the precision scores for each model are overfit. While a good balance of recall and precision is needed to have an effective model, most of the above models do not have this balance. However, the model indicated in “Classification Report Imbalanced 6” is recommended for future use, namely due to its high balanced accuracy score, as well as its balance of recall and precision scores. 
